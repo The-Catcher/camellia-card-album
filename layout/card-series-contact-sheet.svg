@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="210mm" viewBox="0 0 297 210">
+  <defs><style>.bg{fill:#F8F5EF}.title{font-family:Georgia,'Times New Roman',serif;font-size:8px;fill:#1E1E1E}.small{font-family:Arial,sans-serif;font-size:3px;fill:#54524F}.frame{fill:#FFFFFF;stroke:#9D9A95;stroke-width:.25}</style></defs>
+  <rect class="bg" width="297" height="210"/>
+  <text x="18" y="18" class="title">Camellia Sonata / 山茶奏鸣</text>
+  <text x="18" y="25" class="small">Contact sheet: cover + six-card monochrome collectible album concept</text>
+  <g transform="translate(18 35)">
+    <rect class="frame" width="38" height="53"/><image href="cover-concept.svg" x="0" y="0" width="38" height="53"/><text x="0" y="59" class="small">Cover</text>
+    <rect class="frame" x="44" width="38" height="53"/><image href="cards/prelude.svg" x="44" y="0" width="38" height="53"/><text x="44" y="59" class="small">01 Prelude</text>
+    <rect class="frame" x="88" width="38" height="53"/><image href="cards/adagio.svg" x="88" y="0" width="38" height="53"/><text x="88" y="59" class="small">02 Adagio</text>
+    <rect class="frame" x="132" width="38" height="53"/><image href="cards/nocturne.svg" x="132" y="0" width="38" height="53"/><text x="132" y="59" class="small">03 Nocturne</text>
+  </g>
+  <g transform="translate(18 112)">
+    <rect class="frame" width="38" height="53"/><image href="cards/waltz.svg" x="0" y="0" width="38" height="53"/><text x="0" y="59" class="small">04 Waltz</text>
+    <rect class="frame" x="44" width="38" height="53"/><image href="cards/echo.svg" x="44" y="0" width="38" height="53"/><text x="44" y="59" class="small">05 Echo</text>
+    <rect class="frame" x="88" width="38" height="53"/><image href="cards/finale.svg" x="88" y="0" width="38" height="53"/><text x="88" y="59" class="small">06 Finale</text>
+  </g>
+  <text x="202" y="43" class="small">Palette: ivory white, paper white, pale warm gray, mid gray, charcoal black, soft black.</text>
+  <text x="202" y="51" class="small">Production source: editable SVG concepts. Export final print PDFs from a vector design tool.</text>
+</svg>
